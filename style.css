@@ -372,8 +372,13 @@ p.footer-content-description {
 .extra_wapper {
   margin-top: 55px;
 }
+h3.gool {
+  font-size: 52px;
+}
 .goal-section {
   padding: 20px;
+  display: flex;
+  flex-direction: row;
 }
 .img1{
   margin-right: 10px;
